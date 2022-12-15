@@ -23,24 +23,8 @@ THEN I find a concise, descriptive title <br>
 ### GitLab and GitHub
 
 I cloned the repository of the starter code from the https://github.com/coding-boot-camp/urban-octo-telegram. <br>
-I have created a local repository and remote repository under the name "accessibility-standards-met". <br>
+I have created a local repository and remote repository under the name "accessibility-measures-met". <br>
 I have practiced and used new git commands to push commits from my local repository to my remote repository.
-
-### HTML Commits
-
-I have changed the title of the website from "website" to "Horiseon Social Solution Services for Businesses". <br>
-I have replaced "div" with other sementic HTML elements such as "header", "section" and "footer" in the appropriate places. <br>
-I have deleted "div" for the unordered list and give the unordered list a certain class. <br>
-I have added "id" for the unordered list of items to navigate the user to the right section of the webpage <br>
-I have changed some of the classes' names such that they repeat for certain sections as they all have the same styling given in CSS. <br>
-I have noticed that "h3" is only used once so they all have the same styling given in CSS without using a class element. <br>
-I have provided "alt" for each image."
-
-### CSS Commits
-
-I have changed the type and class selectors such that it compensates for the deleted "div" in HTML. <br>
-I have consolidated the CSS by noticing the same patterns that occurs for certain classes' names. <br>
-I have commented each section of CSS style to say what their properties are.
 
 ## Github Links:
 GitHub URL: https://github.com/jason1chiu/accessibility-measures-met.git <br>
